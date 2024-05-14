@@ -1,2 +1,7 @@
 <?php
-Começa aqui
+//inicio do arquivo funcoes.php
+
+
+function teste(){
+	return TRUE;
+}
